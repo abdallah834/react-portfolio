@@ -18,19 +18,23 @@ export default function About() {
                   <i className="fa-solid fa-star"></i>
                   <div className="line ms-2"></div>
                 </div>
-                <div className="abot-text-container d-flex justify-content-center align-items-center">
-                  <p className="p-4">
-                    Freelancer is a free bootstrap theme created by Route. The
-                    download includes the complete source files including HTML,
-                    CSS, and JavaScript as well as optional SASS stylesheets for
-                    easy customization.
-                  </p>
-                  <p className="p-4">
-                    Freelancer is a free bootstrap theme created by Route. The
-                    download includes the complete source files including HTML,
-                    CSS, and JavaScript as well as optional SASS stylesheets for
-                    easy customization.
-                  </p>
+                <div className="abot-text-container row d-flex justify-content-center align-items-center row-cols-1 row-cols-lg-2">
+                  <div className="col">
+                    <p className="p-4">
+                      Freelancer is a free bootstrap theme created by Route. The
+                      download includes the complete source files including
+                      HTML, CSS, and JavaScript as well as optional SASS
+                      stylesheets for easy customization.
+                    </p>
+                  </div>
+                  <div className="col">
+                    <p className="p-4">
+                      Freelancer is a free bootstrap theme created by Route. The
+                      download includes the complete source files including
+                      HTML, CSS, and JavaScript as well as optional SASS
+                      stylesheets for easy customization.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>

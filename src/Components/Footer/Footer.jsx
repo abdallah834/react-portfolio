@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className="footer">
         <Container className="footer-container">
-          <div className="row row-cols-1 row-cols-md-3 g-5">
+          <div className="row row-cols-1 row-cols-md-3 gy-5 gx-lg-3">
             <div className="col text-center">
               <div className="location d-flex flex-column gap-3">
                 <h3>Location</h3>

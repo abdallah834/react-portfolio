@@ -28,6 +28,7 @@ export default function Portfolio() {
               : null
           }
           alt="picture of a wooden house"
+          className=""
         />
       </div>
       <div className="portfolio-container d-flex justify-content-center align-items-center mt-5 pt-5">

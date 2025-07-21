@@ -127,6 +127,9 @@ button:focus-visible {
   background-color: #1abc9c;
   box-shadow: -1px 2px 0px 6px #000;
 }
+.navbar-toggler {
+  background-color: #fff !important ;
+}
 /* Navbar End*/
 /**************** HomePage start*************** */
 .home,
@@ -286,3 +289,9 @@ button:focus-visible {
   font-size: 23px;
 }
 /**************** Footer End*************** */
+@media screen and (width <= 991px) {
+  .page-overlay img {
+    width: 80%;
+    border-radius: 20px;
+  }
+}

@@ -31,7 +31,7 @@ export default function Navbar() {
         </Link>
         <BootstrapNav.Toggle aria-controls="basic-navbar-nav" />
         <BootstrapNav.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto d-flex flex-lg-row gap-4">
+          <Nav className="ms-auto d-flex flex-lg-row gap-4 pt-4 pt-lg-0 px-2 px-lg-0">
             <Link
               to="about"
               className={

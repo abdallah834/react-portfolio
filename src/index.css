@@ -279,4 +279,10 @@ button:focus-visible {
 .copyright-container {
   background-color: #1a252f;
 }
+.fa-facebook,
+.fa-x-twitter,
+.fa-linkedin-in,
+.fa-globe {
+  font-size: 23px;
+}
 /**************** Footer End*************** */

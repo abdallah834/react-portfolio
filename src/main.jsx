@@ -7,7 +7,9 @@ import About from "./Components/About/About.jsx";
 import App from "./App.jsx";
 import Portfolio from "./Components/Portfolio/Portfolio.jsx";
 import Contact from "./Components/Contact/Contact.jsx";
-import "@fortawesome/fontawesome-free";
+import "@fortawesome/fontawesome-free/css/all.min.css";
+import "@fortawesome/fontawesome-free/js/all.min.js";
+
 const router = createBrowserRouter([
   {
     path: "",
